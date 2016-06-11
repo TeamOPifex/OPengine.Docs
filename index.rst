@@ -9,6 +9,7 @@ Welcome to OPengine's documentation!
 * :ref:`sec-tutorials`
 * :ref:`sec-reference`
 * :ref:`sec-community`
+* :ref:`sec-license`
 
 .. toctree::
    :maxdepth: 1
