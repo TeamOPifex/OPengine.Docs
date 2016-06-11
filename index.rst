@@ -6,8 +6,6 @@
 Welcome to OPengine's documentation!
 ====================================
 
-The main documentation for the site is organized into a few sections:
-
 * :ref:`sec-tutorials`
 * :ref:`sec-reference`
 * :ref:`sec-community`
