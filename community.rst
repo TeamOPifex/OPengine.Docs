@@ -1,3 +1,3 @@
 Join the `Slack 
-<http://slackin-opifex.herokuapp.com>`_.
+<http://slackin-opifex.herokuapp.com>`_
 Channel
