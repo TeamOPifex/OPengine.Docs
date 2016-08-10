@@ -16,6 +16,7 @@ Welcome to OPengine's documentation!
    :caption: Tutorials
    :name: sec-tutorials
    
+	tutorials/_tutorials
    
    
 .. toctree::
