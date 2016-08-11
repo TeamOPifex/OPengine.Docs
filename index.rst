@@ -12,32 +12,31 @@ Welcome to OPengine's documentation!
 * :ref:`sec-license`
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Tutorials
-   :name: sec-tutorials
-   
-	tutorials/_tutorials
-   
-   
+	:maxdepth: 1
+	:caption: Tutorials
+	:name: sec-tutorials
+
+	tutorials/GettingStarted/_index
+
+
 .. toctree::
 	:maxdepth: 1
 	:caption: Reference
 	:name: sec-reference
 
 	classes/_classes
-   
+
 
 .. toctree::
 	:maxdepth: 1
 	:caption: Community
 	:name: sec-community
 
-   	community
-   
+  community
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
