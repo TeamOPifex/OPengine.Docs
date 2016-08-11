@@ -17,22 +17,31 @@ Welcome to OPengine's documentation!
 	:name: sec-tutorials
 
 	tutorials/GettingStarted/_index
-
+	tutorials/YourFirstProject/_index
+	tutorials/OPengineStructure/_index
+	tutorials/Scripting/_index
 
 .. toctree::
 	:maxdepth: 1
 	:caption: Reference
 	:name: sec-reference
 
-	classes/_classes
-
+	classes/Core/_core
+	classes/Data/_data
+	classes/Math/_math
+	classes/Performance/_performance
+	classes/Human/_human
+	classes/Communication/_communication
+	classes/Pipeline/_pipeline
+	classes/Scripting/_scripting
 
 .. toctree::
 	:maxdepth: 1
 	:caption: Community
 	:name: sec-community
 
-  community
+	community/slack
+	community/trello
 
 Indices and tables
 ==================

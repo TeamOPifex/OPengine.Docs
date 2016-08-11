@@ -8,6 +8,8 @@ Tutorial reference
    :glob:
 
    GettingStarted/_index
+   YourFirstProject/_index
+   OPengineStructure/_index
 
-   
+
 Test

@@ -7,4 +7,4 @@ When you first start the OPengine Launcher you'll be asked to sign in with an OP
 
 .. image:: createaccount.png
 
-When creating an account, your e-mail address will be used as your username. If you have trouble creating an account, need to change your e-mail address, or problems signing in please contact support@opengine.io
+When creating an account, your e-mail address will be used as your username. If you have trouble creating an account, need to change your e-mail address, or have problems signing in please contact support@opengine.io
